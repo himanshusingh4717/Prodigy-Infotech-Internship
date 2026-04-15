@@ -5,8 +5,8 @@ In this task, I worked with an employee dataset and created visual representatio
 # 1.Objective
 The goal was to generate bar charts for both categorical and numerical variables to study data distribution.
 # 2.Steps Performed
-Imported the employee dataset using Pandas
-Performed data cleaning and basic exploration
-Analyzed the distribution of:
+- Imported the employee dataset using Pandas
+- Performed data cleaning and basic exploration
+- Analyzed the distribution of:
 Gender (Male vs Female)
 Age
